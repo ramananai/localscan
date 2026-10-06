@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Look Scanned (offline) - Windows + Streamlit
 
 Turns a PDF into a realistic scanned PDF, fully offline.
@@ -31,3 +32,7 @@ Manual alternative:
 - PDF/A output is best-effort. For strict compliance, validate with veraPDF.
 - Large PDFs at 400-600 PPI are slow and big; 150-200 PPI is typical of real scanners.
 - Use responsibly: don't present a scanned copy as an original where authenticity matters.
+=======
+# localscan
+LocalScan is a simple, privacy-focused web scanner for capturing, enhancing, and managing documents directly in your browser.
+>>>>>>> d9e8bd8b7393d778fb0c4ee0e9c1266c9537d871
